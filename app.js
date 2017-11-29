@@ -34,11 +34,7 @@ $(function() {
     
     $("#BMazeQuiz").click(
 			function() {
-					$('.navbar li.active').removeClass('active');
-                    ponerVisible($("#imagenesJuegos"), false);
-					ponerVisible($("#myCarousel"), false);
-                    ponerVisible($("#container"), true);
-                    ponerVisible($("#contactos"), false);
+					window.open("https://grupomaajwebyredessociales.github.io/MazeQuiz/");
 					
 				})
     
