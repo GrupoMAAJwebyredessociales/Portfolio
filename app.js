@@ -53,7 +53,7 @@ $(function() {
     
     $("#BSurvival").click(
 			function() {
-					window.open("https://grupomaajwebyredessociales.github.io/MazeQuiz/");
+					window.open("https://drive.google.com/drive/folders/1eYHOTFNuSkmbpkb2sqYwDEJM3giRd4W7");
 					
 				})
     
