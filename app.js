@@ -53,7 +53,7 @@ $(function() {
     
     $("#BSurvival").click(
 			function() {
-					window.open("https://drive.google.com/drive/folders/1eYHOTFNuSkmbpkb2sqYwDEJM3giRd4W7");
+					window.open("http://htmlpreview.github.io/?https://github.com/GrupoMAAJwebyredessociales/WebFinal/blob/master/WebFinal/Builds/BuildFacebook/index.html");
 					
 				})
     
